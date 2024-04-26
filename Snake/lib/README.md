@@ -28,6 +28,13 @@ Compile the Java files using javac *.java.
 Run the game using java SnakeGame.
 Features
 
+
+![Screenshot 2024-04-26 at 6 10 08 PM](https://github.com/700Arnav007/Snake-Game/assets/93029813/854d21a1-590c-4b7b-8c9b-4278a018f991)
+
+
+
+
+
 Simple and intuitive controls.
 Basic collision detection for walls and snake body.
 Score tracking.
@@ -50,8 +57,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 
 
-## Made By Vaibhav Gaur
-## SAP ID :- 1000017157
+## Made By Arnav Chaudhary
+## SAP ID :- 1000017237
 
 
 
